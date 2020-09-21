@@ -131,3 +131,8 @@ dmypy.json
 # Adding chromedrive files
 chromedriver_win32.zip
 chromedriver.exe
+
+# Files to ignore
+Mission_to_Mars_Challenge.py
+Mission_to_Mars.ipynb
+templates.zip
